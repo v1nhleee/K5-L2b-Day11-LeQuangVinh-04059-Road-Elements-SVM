@@ -32,10 +32,18 @@ Cách đặt tag ảnh trên bản CVAT này: Mở bảng Objects bên phải �
 | Nhóm ảnh `front` (A03, A05, A06, A09) | `lane` (`L1`, `R1`) | Cố đoán vẽ vạch khi đường không có sơn hay bỏ qua | Không vẽ thêm khi thực tế mặt đường không có vạch sơn | Tránh tạo nhãn giả (hallucination); nếu mép đường giáp vỉa hè không có vạch sơn thì chuyển sang dùng `road_curb`. |
 
 ## 4. Phiếu QC 1 nhận được
-Bạn kiểm lô của tôi: nguyenxuanlam  Quyết định nhận được: *(Điền Release / Rework sau khi nhận phiếu từ bạn cùng cặp)*  
+Bạn kiểm lô của tôi: Nguyễn Xuân Lam (`nguyenxuanlam`)  Quyết định nhận được: **Rework**  
 | Mã lỗi | Số lỗi | Đồng ý? | Đã sửa? |
 | --- | ---: | --- | --- |
-| *(Chờ nhận phiếu QC 1 từ bạn kiểm chéo; tự chạy `lint` trước bàn giao đã xử lý xong các cảnh báo `QC1-04`, `QC1-05`, `QC1-11`, `QC1-12`)* | 0 | — | — |
+| QC1-03 | 2 | Có | Đã sửa (revision 2) |
+| QC1-04 | 1 | Có | Đã sửa (revision 2) |
+| QC1-06 | 1 | Có | Đã sửa (revision 2) |
+| QC1-07 | 1 | Có | Đã sửa (revision 2) |
+| QC1-08 | 7 | Có | Đã sửa (revision 2) |
+| QC1-09 | 7 | Có | Đã sửa (revision 2) |
+| QC1-10 | 1 | Có | Đã sửa (revision 2) |
+| QC1-11 | 4 | Có | Đã sửa (revision 2) |
+| QC1-12 | 1 | Có | Đã sửa (revision 2) |
 
 ## 5. Kiểm file export
 | File | Mở lại được? | Số shape ảnh 1 (job / file) | Số shape ảnh 2 (job / file) | Tag camera có trong XML? |

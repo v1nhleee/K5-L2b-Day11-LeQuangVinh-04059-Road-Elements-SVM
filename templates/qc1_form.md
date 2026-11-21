@@ -1,6 +1,6 @@
 # Phiếu QC 1 — Road v1.0
 
-Lô được kiểm (học viên): nguyenxuanlam        Người kiểm (học viên): Lê Quang Vinh  
+Lô được kiểm (học viên): nguyenxuanlam (04051)        Người kiểm (học viên): Lê Quang Vinh (04059)
 Ngày: 2026-11-21                          Phiên bản guideline: Road v1.0  
 File được kiểm (tên + `revision` trong manifest): `nguyenxuanlam-manifest.json` (`revision: 1`), gồm `nguyenxuanlam-front.zip` (16 ảnh) và `nguyenxuanlam-fisheye.zip` (12 ảnh)  
 Số ảnh kiểm: 6 (+ 22 ảnh thêm rà soát toàn lô XML, ghi riêng)   Số nhãn đã kiểm (shape + tag): 52 (trên 6 ảnh mẫu chính: `A05`, `A07`, `A09`, `A14`, `B03`, `B04`)  
